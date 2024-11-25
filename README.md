@@ -2,9 +2,6 @@
 
 <h1 align="center">Aymen Fkir</h1>
 
-<video controls width="100%">
-  <source src="https://videos.pexels.com/video-files/2887463/2887463-hd_1920_1080_25fps.mp4" type="video/mp4">
-</video>
 
 <p align="left" margine-top=3px> <a href="https://twitter.com/fkir_aymen" target="blank"><img src="https://img.shields.io/twitter/follow/fkir_aymen?logo=twitter&style=for-the-badge" alt="@fkir_aymen" /></a> </p>
 
