@@ -18,10 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@fkir_aymen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fkir_aymen" height="30" width="40" /></a>
-<a href="https://kaggle.com/aymen fkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aymen fkir" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fkaymen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fkaymen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aymen-fkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aymen-fkir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aymen-fkir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymen-fkir" height="30" width="40" /></a>
+<a href="https://discord.gg/599123016856633344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="599123016856633344" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymen-fkir" alt="aymen-fkir" /></a> </p>
